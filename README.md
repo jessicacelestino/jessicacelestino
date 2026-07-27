@@ -1,16 +1,41 @@
-## Hi there 👋
+# Olá, sou Jéssica Celestino
 
-<!--
-**jessicacelestino/jessicacelestino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```java
+public class JessicaCelestino extends SoftwareDeveloper {
 
-Here are some ideas to get you started:
+    private final String company = "Casas Bahia Tecnologia";
+    private final String focus = "Desenvolvimento Back-end";
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    @Override
+    public void build() {
+        writeCleanCode();
+        solveProblems();
+        keepLearning();
+    }
+}
+```
+
+Desenvolvedora de software com experiência na criação de aplicações e APIs.  
+Tenho interesse em engenharia de software e na construção de soluções simples, confiáveis e de fácil manutenção.
+
+## Stack
+
+```java
+List<String> technologies = List.of(
+    "Java",
+    "Kotlin"
+);
+```
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/jessicacelestino-silva/) · [Instagram](https://www.instagram.com/jessicacelestinoo/)
+
+---
+
+```java
+while (curious) {
+    learn();
+    build();
+    improve();
+}
+```
