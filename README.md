@@ -1,7 +1,7 @@
 # Olá, sou Jéssica Celestino
 
 ```java
-public class JessicaCelestino extends SoftwareDeveloper {
+public class JessicaCelestino extends SoftwarEngineer {
 
     private final String company = "Casas Bahia Tecnologia";
     private final String focus = "Desenvolvimento Backend";
