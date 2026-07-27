@@ -16,7 +16,7 @@ public class JessicaCelestino extends SoftwareDeveloper {
 ```
 
 Desenvolvedora de software com experiência na criação de aplicações e APIs.  
-Tenho interesse em engenharia de software e na construção de soluções simples, confiáveis e de fácil manutenção.
+Tenho interesse em construção de soluções simples, confiáveis e de fácil manutenção.
 
 ## Stack
 
