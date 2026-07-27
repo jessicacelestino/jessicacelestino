@@ -4,7 +4,7 @@
 public class JessicaCelestino extends SoftwareDeveloper {
 
     private final String company = "Casas Bahia Tecnologia";
-    private final String focus = "Desenvolvimento Back-end";
+    private final String focus = "Desenvolvimento Backend";
 
     @Override
     public void build() {
